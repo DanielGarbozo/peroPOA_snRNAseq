@@ -1,0 +1,19 @@
+method,cond,draw,P.man,P.pol,ratio_man_over_pol
+PyDESeq2,full data,0,16.0,6.0,2.67
+edgeR,25% of nuclei,1,23.0,11.0,2.09
+edgeR,25% of nuclei,2,14.0,8.0,1.75
+edgeR,25% of nuclei,3,14.0,9.0,1.56
+edgeR,50% of nuclei,1,31.0,21.0,1.48
+edgeR,50% of nuclei,2,33.0,15.0,2.2
+edgeR,50% of nuclei,3,26.0,18.0,1.44
+edgeR,"equal nuclei
+per cluster",1,48.0,33.0,1.45
+edgeR,"equal nuclei
+per cluster",2,62.0,33.0,1.88
+edgeR,"equal nuclei
+per cluster",3,59.0,34.0,1.74
+edgeR,"equal nuclei
+per cluster",4,66.0,33.0,2.0
+edgeR,"equal nuclei
+per cluster",5,64.0,33.0,1.94
+edgeR,full data,0,79.0,33.0,2.39
