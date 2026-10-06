@@ -1,0 +1,5 @@
+"analysis","species","clusters_tested","sig_gene_cluster_pairs","genes_male_biased","genes_female_biased","mode"
+"my_clusters","P.man",51,338,82,58,"authorlike"
+"my_clusters","P.pol",52,155,22,25,"authorlike"
+"authors_clusters","P.man",50,354,65,54,"authorlike"
+"authors_clusters","P.pol",52,168,25,25,"authorlike"
