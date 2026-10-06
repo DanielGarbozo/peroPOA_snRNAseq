@@ -1,0 +1,20 @@
+name: peropoa
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - scanpy>=1.10
+  - anndata
+  - scrublet
+  - harmonypy
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pydeseq2
+  - python-igraph
+  - leidenalg
+  - pip
