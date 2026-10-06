@@ -1,0 +1,3 @@
+type,ref_cells,query_nuclei,ref_clusters,ref_self_accuracy
+Inhibitory,73143,33828,38,0.734
+Excitatory,63378,18922,32,0.81
